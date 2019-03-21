@@ -18,11 +18,11 @@ Space Invaders. We also use the default hyperparameters and frame stacking.
 **Experiment Overview**
 
 We train our 3 agents for 10 million frames (or steps in the environment), 
-which takes approximately 16 hours per agent on our testing computer. We 
-conduct three experiments: first, a baseline consisting of a 4-layer MLP, 
-second, a shallow network consisting of a 2-layer MLP, and third, 
-a deep network consisting of a 8-layer MLP. We compare the different 
-networks’ learning rate, measured by game play high score.
+which takes approximately 16 hours per agent on our testing computer. The
+three agents consist of: first, a baseline with a 4-layer MLP, 
+second, a shallow network with a 2-layer MLP, and third, 
+a deep network with a 8-layer MLP. We use the game's high score
+as our metric to evaluate each agent (i.e., experiment).
 
 **The Results**
 
