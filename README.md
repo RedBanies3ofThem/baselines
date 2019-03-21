@@ -35,7 +35,6 @@ _To read more about the experiment, refer to
 [DDQN Research Report 2019-02-14.pdf](https://github.com/RedBanies3ofThem/baselines/blob/master/DDQNResearchReport2019-02-14.pdf))._
 
 ### Citing Our Research
-To cite the original version of this repository in publications:
 
     @misc{Deep Reinforcement Learning,
       author = {Jonathan Sadighian, Nadia Sjöstedt, Rhea Moubarak},
