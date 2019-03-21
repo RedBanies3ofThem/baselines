@@ -13,7 +13,7 @@ with only a few minor changes for the purpose of our experiment.
 We explore and evaluate the performance of different neural network architectures 
 with a fixed neuron budget for deep reinforcement learning. We use a Double 
 Dueling DQN algorithm with prioritized experience replay for the Atari game 
-Space Breakers. We also use the default hyperparameters and frame stacking. 
+Space Invaders. We also use the default hyperparameters and frame stacking. 
 
 **Experiment Overview**
 
