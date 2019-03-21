@@ -32,7 +32,7 @@ experiments (baseline and shallow networks achieved average scores
 of 242 and 247 respectively).
 
 _To read more about the experiment, refer to 
-[DDQN Research Report 2019-02-14.pdf](https://github.com/RedBanies3ofThem/baselines/blob/master/DDQNResearchReport2019-02-14.pdf))._
+[DDQN Research Report 2019-02-14.pdf](https://github.com/RedBanies3ofThem/baselines/blob/master/DDQN%20Research%20Report%202019-02-14.pdf))._
 
 ### Citing Our Research
 
